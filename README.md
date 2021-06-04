@@ -1,5 +1,5 @@
 # Vanilla_Autoencoder
-Vanilla-Autoencoder Implemented on MNIST to Digit Images using Feed Forward Networks as Encoder &amp; Decoder. 
+Vanilla-Autoencoder Implemented on MNIST to reconstruct Images using Feed Forward Networks as Encoder &amp; Decoder. 
 
 ![image](https://user-images.githubusercontent.com/63066870/120820694-65375200-c572-11eb-9cdf-2dae558ef075.png)
 
